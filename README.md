@@ -10,6 +10,6 @@ NLP roadmap for collecting everything related to NLP world
 # BERT
 * bert embedding[https://github.com/imgarylai/bert-embedding]
 
-#Frameworks and Tools
+# Frameworks and Tools
 * Flair: simple framework for NLP here[https://github.com/zalandoresearch/flair]
 * fastText: Library for text classification and representation learning here[https://fasttext.cc/]
