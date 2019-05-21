@@ -11,6 +11,13 @@ I created a seprate folder for anything related to Arabic in NLP, to highlight t
 ### Word2Vec
 * Gensim Word2Vec Tutorial from Kaggle [here](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
 
+## RNN
+### LSTM 
+* Great introduction tutorial for LSTM using Keras (here)[https://adventuresinmachinelearning.com/keras-lstm-tutorial/]
+
+* Develop Bidirectional LSTM in Python and compare it with tradional LSTM (here)[https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/]
+*
+
 # BERT
 * BERT [here](https://github.com/google-research/bert)
 * bert embedding [here](https://github.com/imgarylai/bert-embedding)
